@@ -3,12 +3,12 @@ abstract: 'for App::CLI::Extension error stacktrace module'
 author:
   - 'Akira Horimoto'
 build_requires:
-  ExtUtils::MakeMaker: 6.30
+  ExtUtils::MakeMaker: 0
   Test::More: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.30
+  ExtUtils::MakeMaker: 0
 distribution_type: module
-generated_by: 'Module::Install version 0.91'
+generated_by: 'Module::Install version 0.92'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -24,4 +24,4 @@ requires:
   Devel::StackTrace: 1
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.0
+version: 1.1

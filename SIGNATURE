@@ -14,24 +14,25 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c197fab6f144e5f8f4bc614731e4f6a757477976 Changes
-SHA1 35d75c73b70c53deb69bd3ea25bdc52d08902bab MANIFEST
-SHA1 15af2ff5220b75f5737c2d3ef6abb2cd557f4f7c META.yml
+SHA1 56d03993a29ee6a6ca85d4439c62b3bd28e5aae7 .gitignore
+SHA1 e8799682b2aa4114b6533cfd7f991d0be0ff1a0a Changes
+SHA1 25f1414a98be0785aefa72f6dd89b4d44ab64cf1 MANIFEST
+SHA1 5b3def73a2f579b4c0d34f47386d972a76bf09bd META.yml
 SHA1 8d07e1b8beb00ace4ff16e7cb11b101fc755eed9 Makefile.PL
 SHA1 3a2f4ff7f5866ee1c9e29cd474b2e6de7682a605 README
-SHA1 fd5f3c4f0418efee3b9b16cf8c3902e8374909df inc/Module/Install.pm
+SHA1 171ca38c5eedbe92d2f5eb1e14e1725631960bab inc/Module/Install.pm
 SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
-SHA1 7cd7c349afdf3f012e475507b1017bdfa796bfbd inc/Module/Install/Base.pm
-SHA1 ba186541bbf6439111f01fc70769cf24d22869bf inc/Module/Install/Can.pm
-SHA1 aaa50eca0d7751db7a4d953fac9bc72c6294e238 inc/Module/Install/Fetch.pm
-SHA1 219da5a95c290312a81477b226f005997d97dcfd inc/Module/Install/Include.pm
-SHA1 3e83972921d54198d1246f7278f08664006cd65d inc/Module/Install/Makefile.pm
-SHA1 12bf1867955480d47d5171a9e9c6a96fabe0b58f inc/Module/Install/Metadata.pm
+SHA1 6daffe6319ca8108cc3b0b0eaca26c67121e15de inc/Module/Install/Base.pm
+SHA1 4fba5930001ca62721cd7b2790f5cbe888e160f6 inc/Module/Install/Can.pm
+SHA1 9d374a00157befa504e6db14d83663875223e1ee inc/Module/Install/Fetch.pm
+SHA1 dcd214387ab49dc9b4c8a5100bed67a560fc6d49 inc/Module/Install/Include.pm
+SHA1 d170b3621ae4509969c61677aef41534dfa01a1e inc/Module/Install/Makefile.pm
+SHA1 ea2c6af29c2339be6fb78edf0924e6951eb40280 inc/Module/Install/Metadata.pm
 SHA1 fd81bc0e85a1193f278760edb82928d8b4dff2c1 inc/Module/Install/Repository.pm
-SHA1 f7ee667e878bd2faf22ee9358a7b5a2cc8e91ba4 inc/Module/Install/Win32.pm
-SHA1 8ed29d6cf217e0977469575d788599cbfb53a5ca inc/Module/Install/WriteAll.pm
+SHA1 121a3c95ebbbaea7b75df3ce7e922da7e6a0060f inc/Module/Install/Win32.pm
+SHA1 d9f0ea716ff81c7ae3fcaaf15cc03fb9bf4f01b1 inc/Module/Install/WriteAll.pm
 SHA1 07c750f370de7a44ee7b0ed9ec30a7e89c24c9b9 inc/Test/More.pm
-SHA1 4b3843ff2f52cba57b691141bed8b64d121bd8a5 lib/App/CLI/Plugin/StackTrace.pm
+SHA1 03a1ee49904c4dae6f505f903d53c22bf00ad0ab lib/App/CLI/Plugin/StackTrace.pm
 SHA1 7151df85143f131ba8beb17827377b28e6f0d63f t/00_compile.t
 SHA1 0d53c26afce01beb6a8a99535c76d2835eede61f xt/01_podspell.t
 SHA1 af45507a70a164e09ffc5f37915fd47cbbf083bd xt/02_perlcritic.t
@@ -40,7 +41,7 @@ SHA1 2341ca1eae093f62f04e38e305a1fadccac12f64 xt/perlcriticrc
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.5 (GNU/Linux)
 
-iD8DBQFLSG8yN6ezU7mtZfcRAn3MAKCpdXRw0AQmqINY88FkWizxM1eiEwCgxvnA
-qOOQkWmZhbM2xEudDNhYnq4=
-=TRpS
+iD8DBQFMQxawTu6fyoTCPLERAoG7AKDEMZMx8RKMhw5HTkPRcPvzAoe0QQCgskC5
+Dw+CnNvd0OrQ4wsdhXs7nPg=
+=kRCP
 -----END PGP SIGNATURE-----
